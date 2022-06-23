@@ -45,6 +45,4 @@
 <br />
 <br />
 
-
-
-
+<a href="https://app.daily.dev/itsmepnc"><img src="https://api.daily.dev/devcards/be4b04774c7d441e8bc14ef08f95dbd4.png?r=5nn" width="400" alt="P NARENDRA CHOUDRY's Dev Card"/></a>
